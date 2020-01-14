@@ -1,0 +1,20 @@
+{
+  "title.404.page": "Error 404",
+  "title.unauthorized": "Unauthorized user",
+  "al.admissions.homepage": "FenixEdu Admissions",
+  "al.account": "Your account",
+  "btn.login": "Login",
+  "btn.logout": "Logout",
+  "btn.back": "Back",
+  "btn.search": "Search",
+  "btn.edit": "Edit",
+  "btn.confirm": "Confirm",
+  "btn.cancel": "Cancel",
+  "btn.next": "Next",
+  "btn.finish": "Finish",
+  "btn.submit": "Submit",
+  "message.error.404": "The page you're looking for could not be found.",
+  "message.error.noNetwork": "You are not connected to the internet.",
+  "message.error.internalError": "An error has occurred in the service.",
+  "message.error.unauthorized": "You do not have access to this service"
+}

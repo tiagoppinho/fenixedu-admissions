@@ -1,0 +1,20 @@
+{
+  "title.404.page": "Erro 404",
+  "title.unauthorized": "Utilizador não autorizado",
+  "al.admissions.homepage": "FenixEdu Admissions",
+  "al.account": "A sua conta",
+  "btn.login": "Entrar",
+  "btn.logout": "Sair",
+  "btn.back": "Voltar",
+  "btn.search": "Procurar",
+  "btn.edit": "Editar",
+  "btn.confirm": "Confirmar",
+  "btn.cancel": "Cancelar",
+  "btn.next": "Avançar",
+  "btn.finish": "Concluir",
+  "btn.submit": "Submeter",
+  "message.error.404": "A página que procura não foi encontrada.",
+  "message.error.noNetwork": "Não está ligado à internet.",
+  "message.error.internalError": "Ocorreu um erro no serviço.",
+  "message.error.unauthorized": "De momento, não tem acesso a este serviço"
+}

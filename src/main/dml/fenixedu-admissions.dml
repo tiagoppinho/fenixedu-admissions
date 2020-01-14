@@ -1,0 +1,13 @@
+package org.fenixedu.admissions.domain;
+
+class AdmissionsSystem {
+}
+
+relation BennuAdmissionsSystem {
+	.org.fenixedu.bennu.core.domain.Bennu playsRole bennu {
+		multiplicity 1..1;
+	}
+	AdmissionsSystem playsRole admissionsSystem {
+		multiplicity 0..1;
+	}
+}

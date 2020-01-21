@@ -1,6 +1,5 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import store from '@/store'
 import PageWithNavBarAndFooterLayout from '@/layouts/PageWithNavBarAndFooterLayout'
 import PageNotFoundPage from '@/pages/PageNotFoundPage'
 import UnauthorizedPage from '@/pages/UnauthorizedPage'
@@ -14,10 +13,6 @@ const router = new Router({
   routes: [
     {
       path: '',
-      async beforeEnter (to, from, next) {
-        await store.dispatch('fetchProfile')
-        next()
-      },
       component: PageWithNavBarAndFooterLayout,
       children: [
         {

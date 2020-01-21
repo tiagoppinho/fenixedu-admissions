@@ -10,7 +10,7 @@
               "pt-PT":"FenixEdu Admissions Frontend"
           },
           "fullLayout": true,
-          "accessExpression":"logged",
+          "accessExpression":"anyone",
           "path":"fenixedu-admissions",
           "functionalities":[
               {
@@ -23,7 +23,7 @@
                       "pt-PT":"FenixEdu Admissions Frontend"
                   },
                   "path":"fenixedu-admissions",
-                  "accessExpression":"logged"
+                  "accessExpression":"anyone"
               }
           ]
       }
